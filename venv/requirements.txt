@@ -22,5 +22,3 @@ grad-cam==1.4.7
 flask flask_sqlalchemy bcrypt
 pip install fpdf2
 pip install django mysqlclient pillow
-
-
